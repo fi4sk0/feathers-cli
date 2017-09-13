@@ -19,6 +19,11 @@
 npm install -g feathers-cli
 ```
 
+## Update
+```bash
+npm update -g feathers-cli
+```
+
 ## Usage
 
 ```
